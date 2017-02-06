@@ -1,0 +1,19 @@
+{
+  "name": "eataly-react-components",
+  "version": "1.0.0",
+  "description": "React components shared between projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuelandro/Eataly-React-Components.git"
+  },
+  "author": "Manuel Palma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manuelandro/Eataly-React-Components/issues"
+  },
+  "homepage": "https://github.com/Manuelandro/Eataly-React-Components#readme"
+}
