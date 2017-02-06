@@ -1,9 +1,10 @@
 {
   "name": "eataly-react-components",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React components shared between projects",
   "main": "index.js",
   "dependencies": {
+    "aphrodite": "^1.1.0",
     "babel-polyfill": "6.20.0",
     "react": "15.4.1",
     "react-dom": "15.4.1"
