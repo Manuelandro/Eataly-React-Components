@@ -1,8 +1,23 @@
 {
   "name": "eataly-react-components",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React components shared between projects",
   "main": "index.js",
+  "dependencies": {
+    "babel-polyfill": "6.20.0",
+    "react": "15.4.1",
+    "react-dom": "15.4.1"
+  },
+  "devDependencies": {
+    "babel-cli": "6.18.0",
+    "babel-core": "6.21.0",
+    "babel-loader": "6.2.10",
+    "eslint": "3.11.1",
+    "babel-preset-latest": "6.16.0",
+    "babel-preset-react": "6.16.0",
+    "babel-preset-stage-0": "6.16.0",
+    "jest-cli": "18.0.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
